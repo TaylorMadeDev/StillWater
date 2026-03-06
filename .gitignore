@@ -1,0 +1,235 @@
+# =========================
+# Unreal Engine .gitignore
+# =========================
+
+# Build files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled source
+*.obj
+*.o
+*.pdb
+*.dll
+*.exe
+*.lib
+*.app
+*.dylib
+*.so
+
+# Unreal generated project files
+*.opensdf
+*.sdf
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Crash reports
+crashinfo--*
+
+# Auto generated files
+*_BuiltData.uasset
+
+# Packaging output
+*.pak
+*.chunk
+*.utoc
+*.ucas
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore local build configs
+Saved/Config/WindowsEditor/
+
+# Ignore derived shader cache
+DerivedDataCache/*
+
+# Ignore engine intermediates
+Engine/Intermediate/
+
+# RiderLink plugin (auto generated)
+Plugins/Developer/RiderLink/Binaries/
+Plugins/Developer/RiderLink/Intermediate/
+
+# Ignore debug symbols
+*.dSYM
+
+# Ignore build receipts
+*.target
+*.modules
+*.receipt
+
+# Ignore autosaves
+Saved/Autosaves/
+
+# Ignore backup files
+Saved/Backup/
+
+# Ignore logs
+Saved/Logs/
+
+# Ignore cooked content
+Saved/Cooked/
+
+# Ignore staging
+Saved/StagedBuilds/
+
+# Ignore shader caches
+Saved/ShaderDebugInfo/
+
+# Ignore local editor settings
+Saved/Config/Windows/
+
+# =========================
+# Allow important folders
+# =========================
+
+!Source/
+!Config/
+!Content/
+!Plugins/
+!*.uproject# =========================
+# Unreal Engine .gitignore
+# =========================
+
+# Build files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled source
+*.obj
+*.o
+*.pdb
+*.dll
+*.exe
+*.lib
+*.app
+*.dylib
+*.so
+
+# Unreal generated project files
+*.opensdf
+*.sdf
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Crash reports
+crashinfo--*
+
+# Auto generated files
+*_BuiltData.uasset
+
+# Packaging output
+*.pak
+*.chunk
+*.utoc
+*.ucas
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore local build configs
+Saved/Config/WindowsEditor/
+
+# Ignore derived shader cache
+DerivedDataCache/*
+
+# Ignore engine intermediates
+Engine/Intermediate/
+
+# RiderLink plugin (auto generated)
+Plugins/Developer/RiderLink/Binaries/
+Plugins/Developer/RiderLink/Intermediate/
+
+# Ignore debug symbols
+*.dSYM
+
+# Ignore build receipts
+*.target
+*.modules
+*.receipt
+
+# Ignore autosaves
+Saved/Autosaves/
+
+# Ignore backup files
+Saved/Backup/
+
+# Ignore logs
+Saved/Logs/
+
+# Ignore cooked content
+Saved/Cooked/
+
+# Ignore staging
+Saved/StagedBuilds/
+
+# Ignore shader caches
+Saved/ShaderDebugInfo/
+
+# Ignore local editor settings
+Saved/Config/Windows/
+
+# =========================
+# Allow important folders
+# =========================
+
+!Source/
+!Config/
+!Content/
+!Plugins/
+!*.uproject
